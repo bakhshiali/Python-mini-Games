@@ -6,7 +6,7 @@ features:
 3) start over
 
 screenshot:
-<img source='./TicTacToe.png'></img>
+<img src='./TicTacToe.png'></img>
 
 Author: Ali Bakhshi
 E-mail: alibakhshi255255@gmail.com
