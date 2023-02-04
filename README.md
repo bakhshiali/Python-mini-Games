@@ -6,7 +6,9 @@ features:
 3) start over
 
 screenshot:
+
 <img src='./TicTacToe.png'></img>
 
 Author: Ali Bakhshi
+
 E-mail: alibakhshi255255@gmail.com
