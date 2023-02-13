@@ -1,15 +1,13 @@
-# Tic-Tac-Toe
-Python tkinter GUI for Tic Tac Toe Game
+Python mini Games
+==================
+1) Tic-Tac-Toe (By Ali Bakhshi)
+  Python tkinter GUI for Tic Tac Toe Game
+  features:
+    1) show winner/draw
+    2) show/clear win table
+    3) start over
 
-features:
-1) show winner/draw
-2) show/clear win table
-3) start over
+  screenshot:
+  <img src='./Tic-Toc-Toe/TicTacToe.png'></img>
 
-screenshot:
 
-<img src='./TicTacToe.png'></img>
-
-Author: Ali Bakhshi
-
-E-mail: alibakhshi255255@gmail.com
