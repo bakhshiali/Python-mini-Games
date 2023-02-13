@@ -8,7 +8,9 @@ Python mini Games
 3) Classic Snake (under developement)
 4) Pong (under developement)
 
-notes: add Flow diagram of games
+notes for me: 
+1) add Flow diagram of games
+2) add AI players
 
 
 
