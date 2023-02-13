@@ -33,7 +33,8 @@
         ```
       in linux install with sudo:
       ```
-        sudo apt-get install python3-tk ```
+        sudo apt-get install python3-tk 
+        ```
 ## ⚙️ features:
   1) show winner/draw
   2) show/clear win table
