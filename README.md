@@ -5,8 +5,15 @@ Python mini Games
 <img src='./Tic-Toc-Toe/TicTacToe.png' alt="Python tkinter GUI for Tic Tac Toe Game" width=20% height=20%></img></p>
 
 2) Dots-and-Boxes (under developement)
-3) Classic Snake (under developement)
+3) Classic-Snake (under developement)
 4) Pong (under developement)
+5) Car-Race (under developement)
+6) Catch-the-Rain (under developement)
+7) Chess (under developement)
+8) Rock-Paper-Scissors (under developement)
+9) PacMan (under developement)
+10) Tetris (under developement)
+...
 
 notes for me: 
 1) add Flow diagram of games
