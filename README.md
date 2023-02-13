@@ -1,17 +1,11 @@
 Python mini Games
 ==================
-1) Tic-Tac-Toe (By [bakhshiali](https://github.com/bakhshiali))
+1) Tic-Tac-Toe (By [bakhshiali](https://github.com/bakhshiali))   
 
   Python tkinter GUI for Tic Tac Toe Game
-  
-  features:
-  
-    1) show winner/draw
-    2) show/clear win table
-    3) start over
+<img src='./Tic-Toc-Toe/TicTacToe.png' width=10% height=10%></img>
 
-  screenshot:
   
-  <img src='./Tic-Toc-Toe/TicTacToe.png'></img>
+
 
 
