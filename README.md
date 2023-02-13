@@ -4,7 +4,7 @@ Python mini Games
  <table><tr><td style='text-align:center;'>
   <figure> <p align="center">
    <img src='./Tic-Toc-Toe/TicTacToe.png' alt="Python tkinter GUI for Tic Tac Toe Game" width=20% height=20%></img>
- <figcaption>Python tkinter GUI for Tic Tac Toe Game</figcaption></p>
+ <figcaption style='text-align:center;'>Python tkinter GUI for Tic Tac Toe Game</figcaption></p>
  </figure>
 </td></tr></table>
   
