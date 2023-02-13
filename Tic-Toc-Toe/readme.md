@@ -1,3 +1,5 @@
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-blue?logo=GitHub)](https://github.com/bakhshiali)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-green?logo=GitHub)](https://github.com/bakhshiali?tab=repositories)
 # Tic-Tac-Toe
 Python tkinter GUI for Tic Tac Toe Game
 
