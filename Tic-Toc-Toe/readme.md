@@ -13,9 +13,9 @@
   2) run Jupyter lab
   
       Once installed, launch JupyterLab windowsshell/terminal with:
-      
+      ```
         jupyter-lab
-        
+        ```
   3) Open "Tic Tac Toe.ipynb" file & run 1st cell
   
 ### 🐍 Python 
@@ -28,12 +28,12 @@
   1) Tkinter : for GUI interface
   
       install with pip in terminal:
-      
+      ```
         pip install tk
-        
+        ```
       in linux install with sudo:
-      
-        sudo apt-get install python3-tk
+      ```
+        sudo apt-get install python3-tk```
 ## ⚙️ features:
   1) show winner/draw
   2) show/clear win table
