@@ -1,6 +1,6 @@
 Python mini Games
 ==================
-1) Tic-Tac-Toe (By [@bakhshiali](https://github.com/bakhshiali))
+1) Tic-Tac-Toe (By [bakhshiali](https://github.com/bakhshiali))
 
   Python tkinter GUI for Tic Tac Toe Game
   
