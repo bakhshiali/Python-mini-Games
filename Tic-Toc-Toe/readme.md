@@ -7,7 +7,7 @@
   1) install Jupyter lab
   
       Install JupyterLab with pip:
-      '''
+      '''sh
         pip install jupyterlab
         '''
   2) run Jupyter lab
