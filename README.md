@@ -4,7 +4,10 @@ Python mini Games
 <p align="center">Python tkinter GUI for Tic Tac Toe Game<br>
 <img src='./Tic-Toc-Toe/TicTacToe.png' alt="Python tkinter GUI for Tic Tac Toe Game" width=20% height=20%></img></p>
 
-2) Dots-and-Boxes (under developement)<br>
+2) Dots-and-Boxes <br>
+<p align="center">Python tkinter GUI for Dots-and-Boxes Game<br>
+<img src='./Dots-and-Boxes/Dots-and-Boxes.png' alt="Python tkinter GUI for Dots-and-Boxes Game" width=20% height=20%></img></p>
+
 3) Classic-Snake <br>
 <p align="center">Python tkinter GUI for Snake Game<br>
 <img src='./Snake/Snake.png' alt="Python tkinter GUI for Snake Game" width=20% height=20%></img></p>
