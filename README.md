@@ -15,7 +15,11 @@ Python mini Games
 4) Pong
 <p align="center">Python tkinter GUI for Pong Game<br>
 <img src='./Pong/Pong.png' alt="Python tkinter GUI for Pong Game" width=20% height=20%></img></p>
-5) Car-Race (under developement)<br>
+
+5) Car-Race <br>
+<p align="center">Python tkinter GUI for Car-Race Game<br>
+<img src='./Car-Race/Car-Race.png' alt="Python tkinter GUI for Car-Race Game" width=20% height=20%></img></p>
+
 6) Catch-the-Rain (under developement)<br>
 7) Chess (under developement)<br>
 8) Rock-Paper-Scissors
